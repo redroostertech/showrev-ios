@@ -1,0 +1,16 @@
+PODS:
+  - RRTech-Starter-App-Template (0.1.0)
+
+DEPENDENCIES:
+  - RRTech-Starter-App-Template (from `~/Desktop/RRTech-Starter-App-Template`)
+
+EXTERNAL SOURCES:
+  RRTech-Starter-App-Template:
+    :path: "~/Desktop/RRTech-Starter-App-Template"
+
+SPEC CHECKSUMS:
+  RRTech-Starter-App-Template: f1b8e73e846f6fb7f542297ecc3992afb6c38cd1
+
+PODFILE CHECKSUM: 405136a6daa4336624872c0605919e36270aac36
+
+COCOAPODS: 1.6.0
